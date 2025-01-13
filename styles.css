@@ -1,6 +1,6 @@
 img {
 	width:200;
-	border:2px solid Blue;
+	border:1px solid Blue;
 }
 head {
 	
@@ -28,7 +28,15 @@ a {
         margin-bottom: 5px; /* Adjust the space below the<h2>*/
     }
 
-    .section {
+.section {
         margin-top: 0; /* Optional: Reduce space above the div content */
         padding-top: 0; /* Optional: Reduce inner spacing if necessary */
     }
+	
+h3 {
+    margin-bottom: 5px; /* Reduces the space below the <h3> */
+}
+
+a {
+    margin-top: 0; /* Ensures no extra space above the link */
+}
