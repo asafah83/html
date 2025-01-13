@@ -24,3 +24,11 @@ span{
 a {
  color: Blue;
 }
+ h2 {
+        margin-bottom: 5px; /* Adjust the space below the<h2>*/
+    }
+
+    .section {
+        margin-top: 0; /* Optional: Reduce space above the div content */
+        padding-top: 0; /* Optional: Reduce inner spacing if necessary */
+    }
