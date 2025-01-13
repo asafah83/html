@@ -1,6 +1,6 @@
 img {
 	width:200;
-	border:2px solid Red;
+	border:2px solid Blue;
 }
 head {
 	
@@ -10,7 +10,7 @@ title {
 }
 body {
 	background-color: lightyellow;
-	font-family: Arial;
+	font-family: Clibary;
 }
 h1 {
 	font-family: Clibary;
